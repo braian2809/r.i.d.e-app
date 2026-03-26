@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ride-app/static/css/main.fb3eab31.css",
+    "main.js": "/ride-app/static/js/main.63b62dd7.js",
+    "static/js/453.a7aa3129.chunk.js": "/ride-app/static/js/453.a7aa3129.chunk.js",
+    "index.html": "/ride-app/index.html",
+    "main.fb3eab31.css.map": "/ride-app/static/css/main.fb3eab31.css.map",
+    "main.63b62dd7.js.map": "/ride-app/static/js/main.63b62dd7.js.map",
+    "453.a7aa3129.chunk.js.map": "/ride-app/static/js/453.a7aa3129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3eab31.css",
+    "static/js/main.63b62dd7.js"
+  ]
+}
